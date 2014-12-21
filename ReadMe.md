@@ -1,5 +1,7 @@
 #How To
+
 This is short explanation on how to run the script
+
 1. Put run_analysis.R file in your R working directory
 2. Run `source(run_analysis.R)`
 3. Run `run_analysis()`

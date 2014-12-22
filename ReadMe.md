@@ -39,3 +39,5 @@ This is short explanation on how to run the script
 9. Regex look behind in R http://stackoverflow.com/questions/13420391/why-is-this-regex-using-lookbehinds-invalid-in-r
 10. Regex build and test http://www.regexr.com/
 11. gsub example http://stackoverflow.com/questions/14871249/can-i-use-gsub-on-each-element-of-a-data-frame
+12. Return multiple object from R function http://stackoverflow.com/questions/8936099/returning-multiple-objects-in-an-r-function
+13. Read specific column in R http://stackoverflow.com/questions/5788117/only-read-limited-number-of-columns-in-r
